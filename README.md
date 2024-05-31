@@ -23,6 +23,6 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=FlqmeJP&theme=gruvbox)
 
-![](https://raw.githubusercontent.com/ユーザー名/リポジトリ名/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/FlqmeJP/FlqmeJP/output/github-contribution-grid-snake.svg)
 
 
