@@ -5,12 +5,6 @@
   <a href="https://github.com/FlqmeJP">
     <img height="20" src="https://img.shields.io/github/followers/FlqmeJP?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/FlqmeJP">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/FlqmeJP/posts.svg" />
-  </a>
-  <a href="http://qiita.com/FlqmeJP">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/FlqmeJP/contributions.svg" />
-  </a>
 </p>
 
 ## Stats
